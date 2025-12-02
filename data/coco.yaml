@@ -1,6 +1,6 @@
-path: ../datasets/coco8  # dataset root dir
-train: images/train  # train images (relative to 'path') 118287 images
-val: images/val # val images (relative to 'path') 5000 images
+path: ../datasets/coco128-seg  # dataset root dir
+train: images/train2017  # train images (relative to 'path') 118287 images
+val: images/train2017 # val images (relative to 'path') 5000 images
 test: images/test  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
 
 # Classes
