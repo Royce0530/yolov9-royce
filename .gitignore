@@ -1,0 +1,8 @@
+# Ignore datasets
+/data/coco2017/
+/data/*.zip
+/data/*.tar
+/royce.sh
+weights/**
+*.pt
+*.pth
